@@ -18,7 +18,7 @@ const newspapers = [
   {
     name: "sonicstate",
     address: "https://sonicstate.com/",
-    base: "",
+    base: "https://sonicstate.com",
   },
   {
     name: "musicradar",
