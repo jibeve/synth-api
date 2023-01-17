@@ -1,4 +1,4 @@
-//News Synth Scrapping API
+//Synth News Scrapping API
 
 const PORT = process.env.PORT || 8000;
 const express = require("express");
